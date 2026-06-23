@@ -1,0 +1,10 @@
+# Mengabaikan file konfigurasi rahasia
+.env
+
+# Mengabaikan folder data bawaan database & nextcloud
+nextcloud_data/
+db_data/
+
+# Mengabaikan cache python
+__pycache__/
+.ipynb_checkpoints/
